@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Saionara Tassinari</h1>
+        <h1>Saionara Tassinari.</h1>
     </body>
 </html>
