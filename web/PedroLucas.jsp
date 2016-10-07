@@ -1,6 +1,6 @@
 <%-- 
-    Document   : PedroLucasCLima
-    Created on : 06/10/2016, 22:26:58
+    Document   : nome
+    Created on : 06/10/2016, 22:38:50
     Author     : Laboratorio
 --%>
 
@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Nome Adicionado</title>
+        <title>Add Nome</title>
     </head>
     <body>
         <h1>Pedro Lucas C Lima</h1>
