@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Ingryd</h1>
+        <h1>Ingryd Silva</h1>
     </body>
 </html>
